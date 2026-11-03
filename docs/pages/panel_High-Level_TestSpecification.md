@@ -45,7 +45,7 @@ Testing is capability-driven. A feature that is not declared in
 platform. Every declared feature must be tested against both the declaration
 and the observed behaviour.
 
-- **Panel Interface Definitions:** [Composite Input HAL](https://github.com/rdkcentral/rdk-halif-aidl/tree/0.23.0/panel/current/com/rdk/hal/panel/)
+- **Panel Interface Definitions:** [Panel HAL](https://github.com/rdkcentral/rdk-halif-aidl/tree/0.23.0/panel/current/com/rdk/hal/panel/)
 - **Panel HFP:** [HFP](https://github.com/rdkcentral/rdk-halif-aidl/blob/0.23.0/panel/current/hfp-panel.yaml)
 
 
